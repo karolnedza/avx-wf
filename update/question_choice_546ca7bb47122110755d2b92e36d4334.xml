@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="VPC Address Space">9d743b73c39121101437753ce0013121</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 17:17:03</sys_created_on>
+        <sys_id>546ca7bb47122110755d2b92e36d4334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10.0.2.0/24 (250 hosts)</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>question_choice_546ca7bb47122110755d2b92e36d4334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-26 17:17:03</sys_updated_on>
+        <text>10.0.2.0/24 (250 hosts)</text>
+        <value>10.0.2.0/24</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=546ca7bb47122110755d2b92e36d4334"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>546ca7bb47122110755d2b92e36d4334</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 17:17:03</sys_created_on>
+        <sys_id>667cebbb47122110755d2b92e36d435f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-26 17:17:03</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>546ca7bb47122110755d2b92e36d4334</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 17:17:03</sys_created_on>
+        <sys_id>e67cebbb47122110755d2b92e36d435e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-26 17:17:03</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

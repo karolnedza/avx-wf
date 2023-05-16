@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>wf_deploy_vpc_and_spoke_pull_request</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-07 23:42:58</sys_created_on>
+        <sys_id>55152333c35121101437753ce00131c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WF Deploy VPC and spoke pull request</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>item_option_new_set_55152333c35121101437753ce00131c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-07 23:42:58</sys_updated_on>
+        <title>WF Deploy VPC and spoke pull request</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

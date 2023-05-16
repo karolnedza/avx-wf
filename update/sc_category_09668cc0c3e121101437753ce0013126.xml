@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon>0ef6ef48c32161101437753ce00131c2</header_icon>
+        <homepage_image>e4462748c32161101437753ce001318d</homepage_image>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon>b0862f48c32161101437753ce0013112</icon>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-08 02:08:36</sys_created_on>
+        <sys_id>09668cc0c3e121101437753ce0013126</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Aviatrix Systems (Vending Machine)</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_category_09668cc0c3e121101437753ce0013126</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 20:23:54</sys_updated_on>
+        <title>Aviatrix Systems (Vending Machine)</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=09668cc0c3e121101437753ce0013126"/>
+</record_update>

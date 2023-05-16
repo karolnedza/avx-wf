@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_aviatrix_workflow_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-08 02:01:24</sys_created_on>
+        <sys_id>7bf40440c3e121101437753ce0013125</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aviatrix Workflow Catalog View</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sys_ui_view_7bf40440c3e121101437753ce0013125</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-08 02:01:24</sys_updated_on>
+        <title>Aviatrix Workflow Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

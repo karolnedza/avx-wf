@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{&#13;
+    "workflow_run_inputs" : [&#13;
+        {&#13;
+            "name": "sn_callback_url",&#13;
+            "value": "${sn_callback_url}"&#13;
+        },&#13;
+        {&#13;
+            "name": "sn_sys_id",&#13;
+            "value": "${sn_sys_id}"&#13;
+        },&#13;
+       {&#13;
+            "name": "merge_info",&#13;
+            "value": "${merge_info}"&#13;
+        }&#13;
+    ]&#13;
+}</content>
+        <function_name>sn_merge_pr_and_build</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>WF Greenfield VPC and spoke pull request [ sn_merge_pr_and_build ]</qualified_name>
+        <rest_endpoint>https://v2hq3nyqkczhwhaolcf6qb5jue0odyim.lambda-url.us-east-1.on.aws/v1/workflows/sn_merge_pr_and_build/runs</rest_endpoint>
+        <rest_message display_value="WF Greenfield VPC and spoke pull request">8207968dc3d921101437753ce0013162</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-10 01:46:33</sys_created_on>
+        <sys_id>eb441ea0c3a9a1101437753ce0013118</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>sn_merge_pr_and_build</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sys_rest_message_fn_eb441ea0c3a9a1101437753ce0013118</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-02 19:23:41</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

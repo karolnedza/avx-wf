@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>avx-workflow</name>
+        <password>﷞﷟﷒4218eaa0c3da11101437753ce00131aa﷬﷔1﷬﷭nCBnaYkvCnbtaD5PujAdrQ==X8shNfg_p_2xiM5Rz3O3WpW3N74Wsnp8Vg==﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-09 20:58:29</sys_created_on>
+        <sys_id>409a2733c35ed1101437753ce00131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>avx-workflow</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_409a2733c35ed1101437753ce00131e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 20:00:14</sys_updated_on>
+        <username>ybwong@aviatrix.com</username>
+    </sys_auth_profile_basic>
+</record_update>

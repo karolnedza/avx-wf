@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Decomission spoke VPC">688f1bb4c36de1101437753ce00131d2</sc_cat_item>
+        <sc_category display_value="Aviatrix Systems (Vending Machine)">09668cc0c3e121101437753ce0013126</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-11 01:58:49</sys_created_on>
+        <sys_id>5321a3f8c36de1101437753ce00131f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Aviatrix terraform workflow.Destroy Spoke VPC</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>sc_cat_item_category_5321a3f8c36de1101437753ce00131f6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-11 01:59:02</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

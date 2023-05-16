@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="AWS Region">50eaab3bc35121101437753ce00131e2</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-08 00:39:35</sys_created_on>
+        <sys_id>ea227333c39121101437753ce0013177</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AWS N. Virginia (us-east-1)</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>question_choice_ea227333c39121101437753ce0013177</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-08 00:39:35</sys_updated_on>
+        <text>AWS N. Virginia (us-east-1)</text>
+        <value>us-east-1</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ea227333c39121101437753ce0013177"/>
+</record_update>

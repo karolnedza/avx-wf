@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="open_nlu_driver_language">
+    <open_nlu_driver_language action="INSERT_OR_UPDATE">
+        <code>fq</code>
+        <driver display_value="">64c023c17300330021a044764df6a70e</driver>
+        <driver_codes>fq</driver_codes>
+        <language>Canadian French</language>
+        <sys_class_name>open_nlu_driver_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-03 07:00:30</sys_created_on>
+        <sys_id>1471f9b1c392d1101437753ce0013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Canadian French</sys_name>
+        <sys_package display_value="Aviatrix Systems" source="x_325709_terraform">a3f7fe62dbe033009ba2f8fdbf96192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aviatrix Systems">a3f7fe62dbe033009ba2f8fdbf96192a</sys_scope>
+        <sys_update_name>open_nlu_driver_language_1471f9b1c392d1101437753ce0013117</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 20:00:08</sys_updated_on>
+    </open_nlu_driver_language>
+</record_update>
